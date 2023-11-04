@@ -53,4 +53,4 @@ return 0;
 
 # RESULT 
 
-Thus, IPC using pipes mechanisms is illustrated using c program successfully
+Thus, IPC using pipes mechanisms is illustrated using c program successfully.
